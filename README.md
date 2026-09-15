@@ -29,7 +29,7 @@ Tinkercad 的 Arduino 仿真跑在云端网页里，而你的控制程序跑在�
 
 前往商店页一键安装，无需开启开发者模式：
 
-👉 **[Microsoft Edge 扩展商店 · Tinkercad Serial Bridge](https://microsoftedge.microsoft.com/addons/detail/tinkercad-serial-bridge/madkdbjchopgbjhjnpoandbmmjfajcmb)**
+👉 [![Edge 扩展商店](https://img.shields.io/badge/Edge%20扩展商店-立即安装-5A2BE0)](https://microsoftedge.microsoft.com/addons/detail/tinkercad-serial-bridge/madkdbjchopgbjhjnpoandbmmjfajcmb)
 
 也可直接在 Microsoft Edge 扩展商店搜索「Tinkercad Serial Bridge」。安装后点击工具栏图标即可打开配置面板。
 
